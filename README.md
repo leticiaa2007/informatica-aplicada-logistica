@@ -19,11 +19,13 @@ O GitHub reúne as atividades desenvolvidas na disciplina de Informática Aplica
 <img width="798" height="458" alt="image" src="https://github.com/user-attachments/assets/ef6fd19f-069c-4cb0-88a6-cf4707fba786" />
 
 ## Atividade 3 – Operadores de Transporte Multimodal
-#### 1- Qual estado possui mais empresas autorizadas para realizar transporte multimodal?
+### 1- Qual estado possui mais empresas autorizadas para realizar transporte multimodal?
 <img width="1102" height="691" alt="image" src="https://github.com/user-attachments/assets/cd64c1ac-10a5-4f03-a0f1-957882a2f55f" />
-#### 2- Qual país de origem possui mais empresas autorizadas?
+
+### 2- Qual país de origem possui mais empresas autorizadas?
 <img width="960" height="460" alt="image" src="https://github.com/user-attachments/assets/5172c44e-3131-4bb6-ad18-218b76926843" />
-#### 3- Quantas empresas de cada UF aderiram ao Decreto 1563/95?
+
+### 3- Quantas empresas de cada UF aderiram ao Decreto 1563/95?
 <img width="998" height="580" alt="image" src="https://github.com/user-attachments/assets/30937734-7690-40bb-87cb-d9a4f68acc95" />
 
 
