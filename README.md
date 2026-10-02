@@ -102,6 +102,13 @@ O objetivo da atividade é organizar, analisar e interpretar dados de fecundidad
 <img width="810" height="712" alt="Captura de tela 2026-10-01 210225" src="https://github.com/user-attachments/assets/8aaab82f-1e74-4db0-bf72-f6aa9c4a4dee" />
 
 ## Atividade 5 – Dashboard de Empresas Multimodais
+📊 Empresas Multimodais
+
+A atividade consiste na criação de uma análise de empresas de transporte multimodal utilizando o Power BI.
+
+O projeto apresenta os dados de forma visual e interativa, facilitando a interpretação das informações relacionadas às empresas e ao transporte multimodal.
+
+O objetivo da atividade é transformar dados em informações visuais, utilizando recursos do Power BI para apoiar a análise e compreensão do setor de logística.
 <img width="1287" height="702" alt="Captura de tela 2026-10-01 205052" src="https://github.com/user-attachments/assets/a15ce910-9b3c-4cfb-a7cc-a1c8f70d1433" />
 <img width="1545" height="709" alt="Captura de tela 2026-10-01 204223" src="https://github.c
 
