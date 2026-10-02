@@ -1,5 +1,13 @@
 # informatica-aplicada-logistica
+# 📚 Índice
 
+- [Atividade 1 – Quem é Quem?](#atividade-1--quem-é-quem)
+- [Atividade 2 – Análise de Dados ANTT](#atividade-2--análise-de-dados-antt)
+- [Atividade 3 – Operadores de Transporte Multimodal](#atividade-3--operadores-de-transporte-multimodal)
+- [Atividade 4 – Análise de Fecundidade](#atividade-4--análise-de-fecundidade)
+- [Atividade 5 – Dashboard de Empresas Multimodais](#atividade-5--dashboard-de-empresas-multimodais)
+- [Atividade 6 – Dashboard de Fecundidade](#atividade-6--dashboard-de-fecundidade)
+- 
 ## apresentação pessoal em equipe
 <img width="1209" height="682" alt="image" src="https://github.com/user-attachments/assets/1563efd2-3f5d-4e5d-a89d-b67177e3f98c" />
 
