@@ -74,7 +74,25 @@ O objetivo da atividade é analisar dados relacionados ao transporte multimodal 
 
 
 ## Atividade 4 – Análise de Fecundidade
+👶 Análise de Fecundidade
 
+A atividade consiste na análise de dados sobre fecundidade no Estado de São Paulo e suas regiões, considerando diferentes anos e faixas etárias.
+
+Foram analisados dados como:
+
+📅 Ano
+
+📍 Região
+
+👶 Número de nascidos
+
+👩 Faixas etárias das mães
+
+📊 Taxa de fecundidade total
+
+📈 Idade média
+
+O objetivo da atividade é organizar, analisar e interpretar dados de fecundidade, utilizando tabelas e comparações entre diferentes regiões e períodos.
 
 <img width="1770" height="758" alt="Captura de tela 2026-10-01 205906" src="https://github.com/user-attachments/assets/0210ab9a-d8ac-4161-87fd-b5ee08c565e8" />
 <img width="1003" height="721" alt="Captura de tela 2026-10-01 205922" src="https://github.com/user-attachments/assets/9a244195-3989-4098-b335-d70a5fe59c2f" />
