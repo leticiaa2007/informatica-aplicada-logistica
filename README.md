@@ -21,7 +21,7 @@
 <img width="1306" height="674" alt="Captura de tela 2026-10-01 210210" src="https://github.com/user-attachments/assets/0ccade2f-5359-4ea9-a5e0-badc753bfa88" />
 <img width="810" height="712" alt="Captura de tela 2026-10-01 210225" src="https://github.com/user-attachments/assets/8aaab82f-1e74-4db0-bf72-f6aa9c4a4dee" />
 
-## fecundidade total powerbi
+## fecundidade total PowerBi
 
 <img width="1167" height="662" alt="Captura de tela 2026-10-01 192725" src="https://github.com/user-attachments/assets/a52de022-d464-4e5d-94ba-9dae5a99152c" />
 <img width="1166" height="653" alt="Captura de tela 2026-09-24 224735" src="https://github.com/user-attachments/assets/c43325b6-8ce8-44f0-8d43-c3617d567bc4" />
