@@ -17,6 +17,10 @@
 <img width="1287" height="702" alt="Captura de tela 2026-10-01 205052" src="https://github.com/user-attachments/assets/a15ce910-9b3c-4cfb-a7cc-a1c8f70d1433" />
 <img width="1545" height="709" alt="Captura de tela 2026-10-01 204223" src="https://github.com/user-attachments/assets/64ee05b1-e063-4d9a-b494-ba17e0755d89" />
 
+## Atividade 3 – Operadores de Transporte Multimodal
+<img width="1857" height="763" alt="Captura de tela 2026-10-02 192334" src="https://github.com/user-attachments/assets/3b7dc1e7-e2f6-4f92-86af-4ee61c36427a" />
+<img width="1795" height="753" alt="Captura de tela 2026-10-02 192312" src="https://github.com/user-attachments/assets/ce1d5103-329e-4334-9b09-472785dadfec" />
+
 ## Atividade 4 – Análise de Fecundidade
 
 <img width="1770" height="758" alt="Captura de tela 2026-10-01 205906" src="https://github.com/user-attachments/assets/0210ab9a-d8ac-4161-87fd-b5ee08c565e8" />
@@ -25,6 +29,7 @@
 <img width="740" height="649" alt="Captura de tela 2026-10-01 210151" src="https://github.com/user-attachments/assets/a09977a2-eb75-4742-aaf9-1046f6566123" />
 <img width="1306" height="674" alt="Captura de tela 2026-10-01 210210" src="https://github.com/user-attachments/assets/0ccade2f-5359-4ea9-a5e0-badc753bfa88" />
 <img width="810" height="712" alt="Captura de tela 2026-10-01 210225" src="https://github.com/user-attachments/assets/8aaab82f-1e74-4db0-bf72-f6aa9c4a4dee" />
+## Atividade 5 – Dashboard de Empresas Multimodais
 
 ## Atividade 6 – Dashboard de Fecundidade
 
