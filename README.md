@@ -55,10 +55,26 @@ A atividade tem como objetivo organizar, analisar e interpretar dados do setor d
 <img width="960" height="460" alt="image" src="https://github.com/user-attachments/assets/5172c44e-3131-4bb6-ad18-218b76926843" />
 
 ### 3- Quantas empresas de cada UF aderiram ao Decreto 1563/95?
+🚚 Operador de Transporte Multimodal
+
+A atividade consiste na análise e organização de uma base de dados de operadores de transporte multimodal, utilizando informações como empresas, estados, países e adesão ao decreto.
+
+Foram realizadas análises sobre:
+
+📍 Distribuição das empresas por estado
+
+🌎 Países de origem
+
+📋 Adesão ao Decreto nº 1.563/95
+
+📊 Quantidade de empresas e dados por categoria
+
+O objetivo da atividade é analisar dados relacionados ao transporte multimodal e utilizar essas informações para compreender melhor o setor de logística.
 <img width="998" height="580" alt="image" src="https://github.com/user-attachments/assets/30937734-7690-40bb-87cb-d9a4f68acc95" />
 
 
 ## Atividade 4 – Análise de Fecundidade
+
 
 <img width="1770" height="758" alt="Captura de tela 2026-10-01 205906" src="https://github.com/user-attachments/assets/0210ab9a-d8ac-4161-87fd-b5ee08c565e8" />
 <img width="1003" height="721" alt="Captura de tela 2026-10-01 205922" src="https://github.com/user-attachments/assets/9a244195-3989-4098-b335-d70a5fe59c2f" />
