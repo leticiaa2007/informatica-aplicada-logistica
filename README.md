@@ -1,4 +1,7 @@
 # informatica-aplicada-logistica
+## 💻 Informática Aplicada à Logística
+
+O GitHub reúne as atividades desenvolvidas na disciplina de Informática Aplicada à Logística, mostrando diferentes formas de utilizar a tecnologia para organizar, analisar e apresentar informações.
 # 📚 Índice
 
 - [Atividade 1 – Quem é Quem?](#atividade-1--quem-é-quem)
@@ -13,13 +16,16 @@
 <img width="1486" height="829" alt="Captura de tela 2026-10-01 210649" src="https://github.com/user-attachments/assets/9de4eda7-b107-4d50-84e4-0c00fb477c1d" />
 
 ## Atividade 2 – Análise de Dados ANTT
-
-<img width="1287" height="702" alt="Captura de tela 2026-10-01 205052" src="https://github.com/user-attachments/assets/a15ce910-9b3c-4cfb-a7cc-a1c8f70d1433" />
-<img width="1545" height="709" alt="Captura de tela 2026-10-01 204223" src="https://github.com/user-attachments/assets/64ee05b1-e063-4d9a-b494-ba17e0755d89" />
+<img width="798" height="458" alt="image" src="https://github.com/user-attachments/assets/ef6fd19f-069c-4cb0-88a6-cf4707fba786" />
 
 ## Atividade 3 – Operadores de Transporte Multimodal
-<img width="1857" height="763" alt="Captura de tela 2026-10-02 192334" src="https://github.com/user-attachments/assets/3b7dc1e7-e2f6-4f92-86af-4ee61c36427a" />
-<img width="1795" height="753" alt="Captura de tela 2026-10-02 192312" src="https://github.com/user-attachments/assets/ce1d5103-329e-4334-9b09-472785dadfec" />
+#### 1- Qual estado possui mais empresas autorizadas para realizar transporte multimodal?
+<img width="1102" height="691" alt="image" src="https://github.com/user-attachments/assets/cd64c1ac-10a5-4f03-a0f1-957882a2f55f" />
+#### 2- Qual país de origem possui mais empresas autorizadas?
+<img width="960" height="460" alt="image" src="https://github.com/user-attachments/assets/5172c44e-3131-4bb6-ad18-218b76926843" />
+#### 3- Quantas empresas de cada UF aderiram ao Decreto 1563/95?
+<img width="998" height="580" alt="image" src="https://github.com/user-attachments/assets/30937734-7690-40bb-87cb-d9a4f68acc95" />
+
 
 ## Atividade 4 – Análise de Fecundidade
 
@@ -29,7 +35,10 @@
 <img width="740" height="649" alt="Captura de tela 2026-10-01 210151" src="https://github.com/user-attachments/assets/a09977a2-eb75-4742-aaf9-1046f6566123" />
 <img width="1306" height="674" alt="Captura de tela 2026-10-01 210210" src="https://github.com/user-attachments/assets/0ccade2f-5359-4ea9-a5e0-badc753bfa88" />
 <img width="810" height="712" alt="Captura de tela 2026-10-01 210225" src="https://github.com/user-attachments/assets/8aaab82f-1e74-4db0-bf72-f6aa9c4a4dee" />
+
 ## Atividade 5 – Dashboard de Empresas Multimodais
+<img width="1287" height="702" alt="Captura de tela 2026-10-01 205052" src="https://github.com/user-attachments/assets/a15ce910-9b3c-4cfb-a7cc-a1c8f70d1433" />
+<img width="1545" height="709" alt="Captura de tela 2026-10-01 204223" src="https://github.c
 
 ## Atividade 6 – Dashboard de Fecundidade
 
