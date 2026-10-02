@@ -33,6 +33,18 @@ Ferramentas utilizadas: Canva e Google Forms.
 <img width="1486" height="829" alt="Captura de tela 2026-10-01 210649" src="https://github.com/user-attachments/assets/9de4eda7-b107-4d50-84e4-0c00fb477c1d" />
 
 ## Atividade 2 – Análise de Dados ANTT
+🚚
+A atividade consiste na análise e organização de dados relacionados a operadores de transporte multimodal, utilizando informações disponibilizadas pela ANTT.
+
+Foram analisados dados como:
+
+🏢 Razão social das empresas
+📍 Estado e CEP
+📧 E-mail
+📝 CNPJ
+🚛 Cadastro de transporte multimodal
+📅 Vigência e adesão ao decreto
+A atividade tem como objetivo organizar, analisar e interpretar dados do setor de transporte, relacionando informações com a área de logística.
 <img width="798" height="458" alt="image" src="https://github.com/user-attachments/assets/ef6fd19f-069c-4cb0-88a6-cf4707fba786" />
 
 ## Atividade 3 – Operadores de Transporte Multimodal
