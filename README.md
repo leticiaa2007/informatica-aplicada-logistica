@@ -113,7 +113,23 @@ O objetivo da atividade é transformar dados em informações visuais, utilizand
 <img width="1545" height="709" alt="Captura de tela 2026-10-01 204223" src="https://github.c
 
 ## Atividade 6 – Dashboard de Fecundidade
+👶 Análise de Fecundidade — Power BI
 
+A atividade consiste na análise de dados sobre fecundidade utilizando o Power BI, criando gráficos para facilitar a interpretação das informações.
+
+Foram analisados dados como:
+
+📅 Taxa de fecundidade por ano
+
+📍 Dados por região
+
+👩 Idade das gestantes
+
+👶 Quantidade de nascidos
+
+📊 Fecundidade em diferentes faixas etárias
+
+O objetivo da atividade é transformar dados de fecundidade em informações visuais, utilizando gráficos e ferramentas do Power BI para facilitar a análise e comparação dos dados.
 <img width="1167" height="662" alt="Captura de tela 2026-10-01 192725" src="https://github.com/user-attachments/assets/a52de022-d464-4e5d-94ba-9dae5a99152c" />
 <img width="1166" height="653" alt="Captura de tela 2026-09-24 224735" src="https://github.com/user-attachments/assets/c43325b6-8ce8-44f0-8d43-c3617d567bc4" />
 <img width="1163" height="588" alt="Captura de tela 2026-10-01 192747" src="https://github.com/user-attachments/assets/0808e2d0-89cd-4ef5-a452-1d4a60fca56a" />
