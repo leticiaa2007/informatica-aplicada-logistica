@@ -134,7 +134,29 @@ O objetivo da atividade é transformar dados de fecundidade em informações vis
 <img width="1166" height="653" alt="Captura de tela 2026-09-24 224735" src="https://github.com/user-attachments/assets/c43325b6-8ce8-44f0-8d43-c3617d567bc4" />
 <img width="1163" height="588" alt="Captura de tela 2026-10-01 192747" src="https://github.com/user-attachments/assets/0808e2d0-89cd-4ef5-a452-1d4a60fca56a" />
 
-dashboard Power Bi prova 
+## Prova - Dashboard – Investimentos Captados no Estado de São Paulo
+
+Este projeto foi desenvolvido no Power BI, utilizando dados disponibilizados pela Fundação Seade, com o objetivo de analisar a distribuição dos investimentos captados nos municípios do Estado de São Paulo.
+
+O dashboard apresenta uma tabela com a quantidade de investimentos por município e um mapa geográfico interativo, permitindo identificar as regiões com maior concentração de investimentos.
+
+📈 Análises realizadas
+
+Contagem dos investimentos captados por município.
+
+Identificação dos municípios com maior número de investimentos.
+
+Visualização da distribuição geográfica dos investimentos.
+
+Organização e apresentação dos dados por meio de recursos visuais do Power BI.
+
+🛠️ Ferramentas utilizadas
+
+Power BI Desktop: tratamento, análise e visualização dos dados.
+
+Power Query: importação e preparação dos dados.
+
+Fundação Seade: fonte dos dados utilizados.
 
 <img width="1167" height="740" alt="image" src="https://github.com/user-attachments/assets/31c96f91-4d99-46ee-b5f4-eb741e8d4300" />
 
