@@ -136,4 +136,5 @@ O objetivo da atividade é transformar dados de fecundidade em informações vis
 
 dashboard Power Bi prova 
 
-"C:\Users\Julia\Videos\Gravações de Tela\Gravação de Tela 2026-11-13 211027.mp4"
+<img width="1167" height="740" alt="image" src="https://github.com/user-attachments/assets/31c96f91-4d99-46ee-b5f4-eb741e8d4300" />
+
