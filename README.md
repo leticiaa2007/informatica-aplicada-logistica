@@ -170,6 +170,28 @@ Foi desenvolvido um painel com três visualizações:
 
 A atividade possibilitou trabalhar com dados reais e desenvolver visualizações no Power BI, facilitando a organização e a interpretação das informações sobre expectativa de vida em diferentes países.
 <img width="1166" height="656" alt="Captura de tela 2026-11-21 193413" src="https://github.com/user-attachments/assets/55ec2d83-4a46-40e5-a742-adef2498e3d8" />
+Análise de Dados: Horas de Estudo e Desempenho dos Estudantes
+Nesta atividade, foi realizada uma análise de dados sobre o desempenho dos estudantes, utilizando informações sobre as horas dedicadas aos estudos e as notas obtidas nas provas.
+
+O objetivo foi identificar se existe uma relação entre o tempo de estudo e o desempenho dos alunos.
+📈 Desenvolvimento da análise
+Foi criado um gráfico de dispersão no Excel e aplicada a regressão linear para analisar a relação entre as duas variáveis:
+- Horas de estudo: tempo dedicado aos estudos.
+- Notas: resultados obtidos nas provas.
+Pergunta analisada: Mais horas de estudo estão associadas a notas maiores?
+
+Resultado: Sim! Os dados apresentam uma tendência positiva, indicando que estudantes que estudam por mais tempo tendem a obter notas maiores.
+
+A equação encontrada foi y = 1,6341x + 23,618, com R² de 0,6033.
+🛠️ Ferramentas e métodos utilizados
+- Microsoft Excel: organização dos dados e realização dos cálculos.
+- Gráfico de dispersão: representação da relação entre as variáveis.
+- Regressão linear: análise da tendência entre horas de estudo e notas.
+🎯 Considerações finais
+Os resultados mostram uma associação positiva entre o tempo dedicado aos estudos e as notas dos estudantes, indicando que estudar por mais horas tende a estar relacionado a um melhor desempenho nas avaliações.
+
+
+<img width="907" height="683" alt="image" src="https://github.com/user-attachments/assets/81a16f90-d9bb-4287-9c3d-d3cb8aa49cd4" />
 
 ## Prova - Dashboard – Investimentos Captados no Estado de São Paulo
 
