@@ -144,6 +144,32 @@ Ferramenta utilizada: Power BI.
 
 <img width="1147" height="652" alt="Captura de tela 2026-11-20 221000" src="https://github.com/user-attachments/assets/9f6856e7-c925-4a54-bca3-4f9665f76390" />
 
+# 📊 Atividade 8 – Análise de Dados: Expectativa de Vida
+
+## 📚 Sobre a atividade
+
+Nesta primeira etapa, foi realizada uma análise de dados sobre a expectativa de vida, utilizando uma base disponibilizada pelo Our World in Data.
+
+O objetivo foi organizar e apresentar as informações por meio de um dashboard no Power BI, permitindo visualizar os dados e comparar os resultados entre diferentes países.
+
+## 📈 Desenvolvimento da análise
+
+Foi desenvolvido um painel com três visualizações:
+
+- **Soma de idade por entidade:** comparação dos valores apresentados entre os países.
+- **Soma de idade por código:** representação da distribuição dos valores por código.
+- **Contagem de código por entidade:** comparação da quantidade de registros entre os países.
+
+## 🛠️ Ferramentas utilizadas
+
+- **Our World in Data:** obtenção da base de dados.
+- **Power BI:** tratamento, organização e criação das visualizações.
+- **Dashboard:** apresentação gráfica das informações coletadas.
+
+## 🎯 Considerações finais
+
+A atividade possibilitou trabalhar com dados reais e desenvolver visualizações no Power BI, facilitando a organização e a interpretação das informações sobre expectativa de vida em diferentes países.
+<img width="1166" height="656" alt="Captura de tela 2026-11-21 193413" src="https://github.com/user-attachments/assets/55ec2d83-4a46-40e5-a742-adef2498e3d8" />
 
 ## Prova - Dashboard – Investimentos Captados no Estado de São Paulo
 
