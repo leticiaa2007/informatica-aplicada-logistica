@@ -170,7 +170,7 @@ Foi desenvolvido um painel com três visualizações:
 
 A atividade possibilitou trabalhar com dados reais e desenvolver visualizações no Power BI, facilitando a organização e a interpretação das informações sobre expectativa de vida em diferentes países.
 <img width="1166" height="656" alt="Captura de tela 2026-11-21 193413" src="https://github.com/user-attachments/assets/55ec2d83-4a46-40e5-a742-adef2498e3d8" />
-Análise de Dados: Horas de Estudo e Desempenho dos Estudantes
+## Análise de Dados: Horas de Estudo e Desempenho dos Estudantes
 Nesta atividade, foi realizada uma análise de dados sobre o desempenho dos estudantes, utilizando informações sobre as horas dedicadas aos estudos e as notas obtidas nas provas.
 
 O objetivo foi identificar se existe uma relação entre o tempo de estudo e o desempenho dos alunos.
