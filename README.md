@@ -11,6 +11,7 @@ O GitHub reúne as atividades desenvolvidas na disciplina de Informática Aplica
 - [Atividade 5 – Dashboard de Empresas Multimodais](#atividade-5--dashboard-de-empresas-multimodais)
 - [Atividade 6 – Dashboard de Fecundidade](#atividade-6--dashboard-de-fecundidade)
 - [Atividade 7 – Power BI com figuras](#atividade-7---Power-bi-com-figuras)
+- [Atividade 8 – Análise de Dados: Expectativa de Vida](#atividade-8---analise-de-dados:-expectativa-de-vida)
 - [Prova - Dashboard – Investimentos Captados no Estado de São Paulo](#Prova---Dashboard---Investimentos-captados-no-Estados-de-São-Paulo)
 ## Atividade 1 – Quem é Quem?
 🎭 Quem é Quem?
@@ -171,7 +172,7 @@ Foi desenvolvido um painel com três visualizações:
 
 A atividade possibilitou trabalhar com dados reais e desenvolver visualizações no Power BI, facilitando a organização e a interpretação das informações sobre expectativa de vida em diferentes países.
 <img width="1166" height="656" alt="Captura de tela 2026-11-21 193413" src="https://github.com/user-attachments/assets/55ec2d83-4a46-40e5-a742-adef2498e3d8" />
-## 📈 Análise de Dados: Horas de Estudo e Desempenho dos Estudantes
+##  📈 Análise de Dados: Horas de Estudo e Desempenho dos Estudantes
 Nesta atividade, foi realizada uma análise de dados sobre o desempenho dos estudantes, utilizando informações sobre as horas dedicadas aos estudos e as notas obtidas nas provas.
 
 O objetivo foi identificar se existe uma relação entre o tempo de estudo e o desempenho dos alunos.
