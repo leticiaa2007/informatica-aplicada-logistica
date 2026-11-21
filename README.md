@@ -169,5 +169,6 @@ Power Query: importação e preparação dos dados.
 
 Fundação Seade: fonte dos dados utilizados.
 
-<img width="1167" height="740" alt="image" src="https://github.com/user-attachments/assets/31c96f91-4d99-46ee-b5f4-eb741e8d4300" />
+<img width="1572" height="995" alt="image" src="https://github.com/user-attachments/assets/6808262c-b58c-4d45-8432-d7ea7a25d7d5" />
+
 
