@@ -10,6 +10,7 @@ O GitHub reúne as atividades desenvolvidas na disciplina de Informática Aplica
 - [Atividade 4 – Análise de Fecundidade](#atividade-4--análise-de-fecundidade)
 - [Atividade 5 – Dashboard de Empresas Multimodais](#atividade-5--dashboard-de-empresas-multimodais)
 - [Atividade 6 – Dashboard de Fecundidade](#atividade-6--dashboard-de-fecundidade)
+- [Atividade 7 – Power BI com figuras](#atividade-7---Power-bi-com-figuras)
 - [Prova - Dashboard – Investimentos Captados no Estado de São Paulo](#Prova---Dashboard---Investimentos-captados-no-Estados-de-São-Paulo)
 ## Atividade 1 – Quem é Quem?
 🎭 Quem é Quem?
