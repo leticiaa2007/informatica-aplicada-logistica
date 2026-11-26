@@ -195,6 +195,14 @@ Os resultados mostram uma associação positiva entre o tempo dedicado aos estud
 
 
 <img width="907" height="683" alt="image" src="https://github.com/user-attachments/assets/81a16f90-d9bb-4287-9c3d-d3cb8aa49cd4" />
+## 🔍 Comparação dos modelos
+A comparação teve como objetivo verificar se os dois modelos apresentam os mesmos resultados, observando possíveis diferenças nos coeficientes de regressão, na orientação da reta e nas diferenças observadas.
+
+Modelo realizado pelo Google Colab:
+<img width="1001" height="640" alt="image" src="https://github.com/user-attachments/assets/47c06a1b-7e68-4d26-905a-e17aaaa5b1d4" />
+
+## Modelo realizado pelo Microsoft Excel:
+<img width="793" height="455" alt="image" src="https://github.com/user-attachments/assets/69142666-0cf8-4e42-8bdf-c1ae44a2d2fc" />
 
 ## Prova - Dashboard – Investimentos Captados no Estado de São Paulo
 
